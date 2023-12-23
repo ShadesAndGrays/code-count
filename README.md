@@ -16,7 +16,7 @@ yay -S cmake
 ```
 ##### pacman
 ```
-paman -S fmt
+pacman -S fmt
 pacman -S cmake
 ```
 ---

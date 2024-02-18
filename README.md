@@ -1,5 +1,5 @@
 ## Code Counter
-A simple program checking the total number of lines in a give directory.
+A simple program for checking the total number of lines of text in a given directory.
 
 ---
 
